@@ -33,16 +33,17 @@
 
 <table style="width:100%">
   <tr>
-      <th><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitthakur045&show_icons=true&locale=en&layout=compact&hide=Ruby" alt="amitthakur045" /></th>
+      <th><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitthakur045&show_icons=true&locale=en&layout=compact&hide=Ruby&theme=radical" alt="amitthakur045" /></th>
     </tr>
 </table>
+
 <br>
 <hr>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitthakur045&show_icons=true&locale=en" alt="amitthakur045" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amitthakur045&show_icons=true&locale=en&theme=radical" alt="amitthakur045" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitthakur045&" alt="amitthakur045" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitthakur045&theme=neon-palenight" alt="amitthakur045" /></p>
 
 <a href="https://github.com/amitthakur045/github-readme-activity-graph"><img alt="AMit;s graph" src="https://activity-graph.herokuapp.com/graph?username=amitthakur045&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
