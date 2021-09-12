@@ -37,7 +37,7 @@
 <hr>
 
 <p><img align="left" width="47.5%" src="https://github-readme-stats.vercel.app/api?username=amitthakur045&show_icons=true&locale=en&theme=radical" alt="amitthakur045" /></p>
-<p><img align="right" width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitthakur045&theme=neon-palenight" alt="amitthakur045" /></p>
+<p><img align="right" width="47.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=amitthakur045&theme=radical" alt="amitthakur045" /></p>
 
 <a href="https://github.com/amitthakur045/github-readme-activity-graph"><img alt="AMit;s graph" src="https://activity-graph.herokuapp.com/graph?username=amitthakur045&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 </div>
